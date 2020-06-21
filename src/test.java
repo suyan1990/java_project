@@ -1,3 +1,3 @@
 public class test {
-    Character v_version='1';
+    Character v_version='2';
 }
