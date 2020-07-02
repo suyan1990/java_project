@@ -43,6 +43,52 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RunManager" selected="Application.Displace">
+    <configuration name="Displace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Displace" />
+      <module name="java_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="java_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tautog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tautog" />
+      <module name="java_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="date_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date_class" />
+      <module name="java_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="split" />
+      <module name="java_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Displace" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.Tautog" />
+        <item itemvalue="Application.date_class" />
+        <item itemvalue="Application.split" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,6 +115,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1593529806395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593529806395" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1593529806395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593529806395" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1593529806395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593529806395" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1593529806395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593529806395" />
     <state x="28" y="0" key="new project wizard" timestamp="1592226525233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
